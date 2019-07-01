@@ -1,0 +1,4 @@
+Flask==1.0.2
+gunicorn==19.9.0
+wheel==0.33.4
+setuptools==41.0.1
